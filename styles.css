@@ -1,3 +1,5 @@
-p{
-    background-color: blueviolet;
+body{
+    background: blueviolet;
+    margin: 0;
+    text-align: center;
 }
